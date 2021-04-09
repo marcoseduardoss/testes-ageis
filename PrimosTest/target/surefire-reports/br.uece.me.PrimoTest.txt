@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: br.uece.me.PrimoTest
+-------------------------------------------------------------------------------
+Tests run: 101, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.544 s <<< FAILURE! - in br.uece.me.PrimoTest
+isPrimoTest[7]  Time elapsed: 0.021 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 1 nao é primo ==> expected: <true> but was: <false>
+	at br.uece.me.PrimoTest.isPrimoTest(PrimoTest.java:30)
+
+isPrimoTest[66]  Time elapsed: 0.021 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 0 nao é primo ==> expected: <true> but was: <false>
+	at br.uece.me.PrimoTest.isPrimoTest(PrimoTest.java:30)
+
+isPrimoUmTest  Time elapsed: 0.005 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 1 nao é primo ==> expected: <true> but was: <false>
+	at br.uece.me.PrimoTest.isPrimoUmTest(PrimoTest.java:21)
+
