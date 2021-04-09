@@ -7,3 +7,8 @@
  * Teste unitário - números primos
  * @author marcos.eduardo
 
+ 
+## Classes
+- [Primo.java](https://github.com/marcoseduardoss/testes-ageis/blob/main/PrimosTest/src/main/java/br/uece/me/Primo.java);
+- [PrimoTest.java](https://github.com/marcoseduardoss/testes-ageis/blob/main/PrimosTest/src/test/java/br/uece/me/testes/PrimoTest.java);
+- [PrimoMock.java](https://github.com/marcoseduardoss/testes-ageis/blob/main/PrimosTest/src/test/java/br/uece/me/util/mock/PrimoMock.java).
