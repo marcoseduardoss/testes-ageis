@@ -14,9 +14,8 @@ import br.uece.me.util.mock.PrimoMock;
 
 /**
  * Universidade Estadual do Ceará
- * Especialização Engenharia de Software com Devops
- * Profª: Ludmila Varela de Castro
- * Disciplina Testes Ágeis
+ * Engenharia de Software com Devops
+ * Testes Ágeis
  * Teste unitário - números primos
  * @author marcos.eduardo
  */
