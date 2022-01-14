@@ -3,8 +3,8 @@ Projetos de testes
 
 
  * Universidade Estadual do Ceará
- * Especialização Engenharia de Software com DevOps
- * Disciplina Testes Ágeis
+ * Engenharia de Software com DevOps
+ * Testes Ágeis
  * Teste unitário - números primos
  * @author marcos.eduardo
 
